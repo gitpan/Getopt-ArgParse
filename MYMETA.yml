@@ -1,0 +1,25 @@
+---
+abstract: 'Parsing command line arguments with a user-friendly interface'
+author:
+  - 'Mytram <mytram2@gmail.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.130880'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Getopt-ArgParse
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Getopt::Long: 2.38
+  Moo: 1.003
+  perl: 5.008
+resources:
+  repository: https://github.com/mytram/perl-argparse
+version: v1.0.0
