@@ -1,11 +1,11 @@
 ---
-abstract: 'Parsing command line arguments with a user-friendly interface'
+abstract: 'Parsing args with a richer and more user-friendly API'
 author:
   - 'Mytram <mytram2@gmail.com>'
 build_requires: {}
 configure_requires:
   ExtUtils::MakeMaker: 0
-dynamic_config: 0
+dynamic_config: 1
 generated_by: 'ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.130880'
 license: perl
 meta-spec:
@@ -22,4 +22,4 @@ requires:
   perl: 5.008
 resources:
   repository: https://github.com/mytram/perl-argparse
-version: v1.0.0
+version: v1.0.2
