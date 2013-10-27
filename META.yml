@@ -19,7 +19,8 @@ no_index:
 requires:
   Getopt::Long: 2.38
   Moo: 1.003
+  Test::Exception: 0.31
   perl: 5.008
 resources:
   repository: https://github.com/mytram/perl-argparse
-version: v1.0.2
+version: v1.0.3
