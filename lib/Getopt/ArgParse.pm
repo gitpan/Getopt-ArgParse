@@ -2,7 +2,7 @@ require 5.008001;
 
 package Getopt::ArgParse;
 {
-    $Getopt::ArgParse::VERSION = '1.0.3';
+    $Getopt::ArgParse::VERSION = '1.0.4';
 };
 
 # ABSTRACT: Getopt::ArgParse - Parsing args with a richer and more user-friendly API
@@ -43,7 +43,7 @@ In particular, the modules provides the following features:
 
 =head1 VERSION
 
-version 1.0.3
+version 1.0.4
 
 =head1 SYNOPSIS
 
@@ -629,9 +629,11 @@ Mytram <mytram2@gmail.com> (original author)
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2013 by Mytram.
+This software is Copyright (c) 2014 by Mytram.
 
-This is free software.
+This is free software, licensed under:
+
+  The Artistic License 2.0 (GPL Compatible)
 
 =cut
 
